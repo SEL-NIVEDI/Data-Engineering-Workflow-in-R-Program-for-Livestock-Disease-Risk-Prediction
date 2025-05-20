@@ -10,3 +10,4 @@ Feature engineering functions in the code assign risk weightages and compute mon
 disease combination. Finally, all components are merged into a structured dataset and exported as a CSV file, ready for
 machine learning forecasting. These R programs form a core part of the operational Livestock Disease Risk Forewarning
 System and are critical for producing accurate and timely risk predictions at the district level.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15471208.svg)](https://doi.org/10.5281/zenodo.15471208)
